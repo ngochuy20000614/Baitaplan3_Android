@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/congty"
+        android:title="Trang chủ"
+        android:icon="@drawable/ic_country"/>
+    <item android:id="@+id/trangchu"
+        android:icon="@drawable/ic_shopping_cart_24"
+        android:title="Mua hàng"/>
+    <item android:id="@+id/dashboard"
+        android:title="Đặc biệt"
+        android:icon="@drawable/ic_dashboard"/>
+</menu>
